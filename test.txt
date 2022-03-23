@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 added some text here to test.
-=======
 test something
->>>>>>> 1634303f62cf27501e8ddba0f9eeed723ea0c839
