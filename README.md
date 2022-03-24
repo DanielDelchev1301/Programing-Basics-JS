@@ -1,2 +1,2 @@
 # Programing-Basics-JS
-Some basic exercises
+Learn the basics of JavaScript.
